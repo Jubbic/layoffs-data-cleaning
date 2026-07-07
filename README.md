@@ -104,15 +104,3 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 
 🌐 Portfolio: coming soon
 
----
-
-## Repository Structure
-layoffs-data-cleaning/
-│
-├── README.md
-├── data_cleaning.sql
-├── layoffs_cleaned.csv
-└── screenshots/
-    ├── query1.png
-    ├── query2.png
-    └── cleaned_data.png
