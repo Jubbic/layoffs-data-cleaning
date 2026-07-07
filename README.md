@@ -1,4 +1,4 @@
-# 📊 SQL Data Cleaning Project – Layoffs Dataset
+#  SQL Data Cleaning Project – Layoffs Dataset
 
 ## Overview
 
@@ -98,9 +98,9 @@ Adeleke Jubril
 
 Aspiring Data Analyst passionate about transforming raw data into actionable insights through SQL, Excel, Python, Power BI, and Tableau.
 
-📧 Email: jubbic007@gmail.com
+ Email: jubbic007@gmail.com
 
-🔗 LinkedIn: 
+ LinkedIn: https://www.linkedin.com/in/jubril-adeleke-41bab8241/
 
-🌐 Portfolio: coming soon
+ Portfolio: https://jubbic.github.io/BuiltbyAdelekeJubril.github.io/
 
