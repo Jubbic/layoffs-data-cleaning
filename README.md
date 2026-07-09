@@ -102,5 +102,5 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 
  LinkedIn: https://www.linkedin.com/in/jubril-adeleke-41bab8241/
 
- Portfolio: https://jubbic.github.io/BuiltbyAdelekeJubril.github.io/
+ Portfolio: https://jubbic.github.io/
 
